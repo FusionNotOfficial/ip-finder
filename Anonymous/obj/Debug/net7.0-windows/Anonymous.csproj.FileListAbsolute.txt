@@ -1,0 +1,16 @@
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.MainPage.resources
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.csproj.GenerateResource.cache
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.AssemblyInfoInputs.cache
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.AssemblyInfo.cs
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.csproj.CoreCompileInputs.cache
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\bin\Debug\net7.0-windows\Anonymous.exe
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\bin\Debug\net7.0-windows\Anonymous.deps.json
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\bin\Debug\net7.0-windows\Anonymous.runtimeconfig.json
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\bin\Debug\net7.0-windows\Anonymous.dll
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\bin\Debug\net7.0-windows\Anonymous.pdb
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.dll
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\refint\Anonymous.dll
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.pdb
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\Anonymous.genruntimeconfig.cache
+F:\Visual Studio\TestProjects\Anonymous\Anonymous\obj\Debug\net7.0-windows\ref\Anonymous.dll
